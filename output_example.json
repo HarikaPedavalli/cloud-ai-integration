@@ -1,0 +1,5 @@
+{
+  "message": "Service is deployment-ready",
+  "platform": "AWS EC2",
+  "containerized": true
+}
